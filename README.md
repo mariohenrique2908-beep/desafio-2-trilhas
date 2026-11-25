@@ -47,7 +47,7 @@ Você precisa do [Python](https://www.python.org/downloads/) 3.10 ou mais novo i
 4. No navegador, clique em analise_ecommerce.ipynb e use Run → Run All Cells.
 Aviso: O notebook precisa estar na mesma pasta que a pasta dados/. Se mover o arquivo .ipynb sozinho, ele não encontrará a base de dados.
 
-No Google Colab (sem instalar nada)
+Google Colab (sem instalar nada)
 
 Vá em colab.research.google.com.
 Escolha a aba GitHub, cole o link do seu repositório e abra o notebook.
