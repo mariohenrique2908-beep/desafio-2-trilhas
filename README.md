@@ -2,7 +2,7 @@
 
 > Análise de dados de vendas de um e-commerce, investigando receita, lucro e comportamento de compra por categoria.
 
-**Equipe:** Mateus Cardoso e Mário Henrique (Substitua pelos seus nomes/nomes dos colegas)
+**Equipe:** Mário Henrique Bezerra Rocha (Substitua pelos seus nomes/nomes dos colegas)
 
 ## Perguntas
 1. Quais categorias de produtos geram mais receita (Sales) e mais lucro (Profit)?
